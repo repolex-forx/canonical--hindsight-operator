@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/canonical/hindsight-operator/commit/e2dd8dfeb8332600eca7b84e2a1dcd4c072b8715",
       "git:hexsha": "e2dd8dfeb8332600eca7b84e2a1dcd4c072b8715",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
