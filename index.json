@@ -1,0 +1,11 @@
+{
+  "org": "canonical",
+  "repo": "hindsight-operator",
+  "versions": [
+    {
+      "commit": "e2dd8dfeb8332600eca7b84e2a1dcd4c072b8715",
+      "tag": "",
+      "parsed_at": "2026-11-08T19:10:48.781912+00:00"
+    }
+  ]
+}
